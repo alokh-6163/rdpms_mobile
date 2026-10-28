@@ -1,0 +1,28 @@
+{
+  "name": "voyant-today",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fcm-notification": "^2.0.0",
+    "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunlux-Technovations/voyant-today.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sunlux-Technovations/voyant-today/issues"
+  },
+  "homepage": "https://github.com/Sunlux-Technovations/voyant-today#readme"
+}
